@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Aug",
+        "description": "Eye of Zapems, da Overpass Collection.",
+        "price": 59.99,
+        "image": "https://img-cdn.hltv.org/gallerypicture/JolXavaZ2Teg0bv_iuLJV6.png?ixlib=java-2.1.0&w=1200&s=9c3a11ad7a47dcea8d66324f35e9913c"
+    },
+    {
+        "id": 2,
+        "name": "Zeus",
+        "description": "Dragon Snore, da Overpass Collection.",
+        "price": 539.99,
+        "image": "https://img-cdn.hltv.org/gallerypicture/heTNPeITbncBSkKgNj7xmB.png?ixlib=java-2.1.0&w=1200&s=c000c6e5d67d54e8d653be679572c325"
+    },
+    {
+        "id": 3,
+        "name": "XM1014",
+        "description": "Monster Melt, da Overpass Collection.",
+        "price": 69.99,
+        "image": "https://img-cdn.hltv.org/gallerypicture/rN0-YBs52_p8A7nKwJKeeK.png?ixlib=java-2.1.0&w=1200&s=fa7ecf97765d4e4c26b43168de973e5f"
+    },
+    {
+        "id": 4,
+        "name": "Desert Eagle",
+        "description": "Tilted, da Overpass Collection.",
+        "price": 439.99,
+        "image": "https://img-cdn.hltv.org/gallerypicture/Qnr4M0j2xDf-X7pbKQZJ4U.png?ixlib=java-2.1.0&w=1200&s=059ea9fb163e1fffbbb3f3e39b77c058"
+    },
+    {
+        "id": 5,
+        "name": "Dual Berettas",
+        "description": "Sweet Little Angels, da Overpass Collection.",
+        "price": 59.99,
+        "image": "https://img-cdn.hltv.org/gallerypicture/YZvQ0Ln7B4MYzTLOkOCzm4.png?ixlib=java-2.1.0&w=1200&s=269d347634442baa10acdebc5cf8c4e4"
+    },
+    {
+        "id": 6,
+        "name": "M4A1-S",
+        "description": "Wash me plz, da Overpass Collection.",
+        "price": 124.99,
+        "image": "https://img-cdn.hltv.org/gallerypicture/b0-1DqGrmvPe22TfsRV3gR.png?ixlib=java-2.1.0&w=1200&s=693aa139065dc4eb835dace917e86f28"
+    },
+    {
+        "id": 7,
+        "name": "M4A1-S",
+        "description": "Vaporwave, The Gallery Case.",
+        "price": 734.99,
+        "image": "https://img-cdn.hltv.org/gallerypicture/-O6J891J0c-k66DToVcn6f.png?ixlib=java-2.1.0&w=1200&s=7259cd14e62a480cbb8ea00724542f06"
+    },
+    {
+        "id": 8,
+        "name": "Glock-18",
+        "description": "Gold Toof, The Gallery Case.",
+        "price": 614.99,
+        "image": "https://img-cdn.hltv.org/gallerypicture/1CVq3L94ftfm1a8vLXXgIm.png?ixlib=java-2.1.0&w=1200&s=79961f141bc595070ed8a7ba2fb6eddd"
+    },
+    {
+        "id": 9,
+        "name": "Ump-45",
+        "description": "Neo-Noir, The Gallery Case.",
+        "price": 19.99,
+        "image": "https://img-cdn.hltv.org/gallerypicture/8_Fzn1knXHcLXM_AK_5dbY.png?ixlib=java-2.1.0&w=1200&s=00b9ed59ef62c998007b9e1cb366744d"
+    },
+    {
+        "id": 10,
+        "name": "Ak-47",
+        "description": "Outsiders, The Gallery Case.",
+        "price": 119.99,
+        "image": "https://img-cdn.hltv.org/gallerypicture/nd3iHrYW9N7r4GWuqmIFRv.png?ixlib=java-2.1.0&w=1200&s=e87aded971efc3fc67f2659e019effd4"
+    },
+    {
+        "id": 11,
+        "name": "SSG-08",
+        "description": "Transit, The Gallery Case.",
+        "price": 26.99,
+        "image": "https://img-cdn.hltv.org/gallerypicture/QTI-QIBCiDla8zCO7ojzXU.png?ixlib=java-2.1.0&w=1200&s=f0cbff5ecdefc095b15efce9e07dc997"
+    },
+    {
+        "id": 12,
+        "name": "Mac-10",
+        "description": "Saibã Oni, The Gallery Case.",
+        "price": 49.99,
+        "image": "https://img-cdn.hltv.org/gallerypicture/tKpaMhQ52PotKv2dkOOulI.png?ixlib=java-2.1.0&w=1200&s=45052ec38c08c4b70c2e648886d3b2af"
+    }
+]

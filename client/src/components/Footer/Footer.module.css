@@ -1,0 +1,69 @@
+/* Estilos principais do rodapé */
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 40px 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  .footer .container {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  .footer .row {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .footer_col {
+    flex: 1;
+    min-width: 250px;
+  }
+  
+  .footer_col h4 {
+    font-size: 18px;
+    margin-bottom: 20px;
+    font-weight: bold;
+  }
+  
+  .footer_col ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footer_col li {
+    margin: 10px 0;
+  }
+  
+  .footer_col a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+    transition: color 0.3s ease;
+  }
+  
+  .footer_col a:hover {
+    color: #007bff; /* Cor de destaque ao passar o mouse */
+  }
+  
+  .footer_col a:focus {
+    color: #0056b3;
+  }
+  
+  @media (max-width: 768px) {
+    .footer .row {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .footer_col {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+  }
+  
+  

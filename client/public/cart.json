@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Aug",
+        "price": 59.99,
+        "quantity": 1,
+        "image": "https://img-cdn.hltv.org/gallerypicture/JolXavaZ2Teg0bv_iuLJV6.png?ixlib=java-2.1.0&w=1200&s=9c3a11ad7a47dcea8d66324f35e9913c"
+    },
+    {
+        "id": 2,
+        "name": "Zeus",
+        "price": 539.99,
+        "quantity": 2,
+        "image": "https://img-cdn.hltv.org/gallerypicture/heTNPeITbncBSkKgNj7xmB.png?ixlib=java-2.1.0&w=1200&s=c000c6e5d67d54e8d653be679572c325"
+    },
+    {
+        "id": 12,
+        "name": "Mac-10",
+        "price": 49.99,
+        "quantity": 2,
+        "image": "https://img-cdn.hltv.org/gallerypicture/tKpaMhQ52PotKv2dkOOulI.png?ixlib=java-2.1.0&w=1200&s=45052ec38c08c4b70c2e648886d3b2af"
+    }
+]
